@@ -1,2 +1,2 @@
 # flask
-simple flask app for docker container testing
+simple flask webapp for testing
